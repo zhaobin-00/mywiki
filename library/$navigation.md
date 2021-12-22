@@ -14,6 +14,6 @@
 - [使用测试模块测试接口](?file=001-amWiki操作指南/06-使用测试模块测试接口 "使用测试模块测试接口")
 - [amWiki转接到任意域名进行接口测试](?file=001-amWiki操作指南/07-amWiki转接到任意域名进行接口测试 "amWiki转接到任意域名进行接口测试")
 
-##### 2021
-- [test](?file=002-2021/001-test "test")
-- [githubtest](?file=002-2021/002-githubtest "githubtest")
+##### 2021记录
+- [test](?file=002-2021记录/001-test "test")
+- [githubtest](?file=002-2021记录/002-githubtest "githubtest")
