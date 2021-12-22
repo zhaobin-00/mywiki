@@ -1,4 +1,3 @@
-# wiki.github.io
+# mywiki
 This my WiKi.
 
-Now it is 404.

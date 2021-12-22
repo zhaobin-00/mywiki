@@ -1,10 +1,11 @@
-# ZhaoBin WiKi
+# ZhaoBin‘s WiKi
 
 <br>
 
-![欢迎使用amWiki！](amWiki/images/logo.png "欢迎使用amWiki！")  
-
-### 欢迎使用 amWiki 轻文库!
-—— **amWiki 致力于让大家可以更简单、更便捷的建设个人和团队文库！**  
-
+![使用amWiki搭建](amWiki/images/logo.png "使用amWiki搭建")  
 [ [amWiki 官网文档中心](https://amwiki.org/doc/) ]
+
+<br>
+
+## 记录工作以来学习笔记！
+![](amWiki/images/grassland.jpg)
